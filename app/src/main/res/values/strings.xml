@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">[Layali Elkordy]- Midterm21</string>
+    <string name="x1">Go to activity 1</string>
+    <string name="x2">Go to activity 2</string>
+    <string name="x3">Go to activity 3</string>
+    <string name="a1">You are in activity 1</string>
+    <string name="a2">You are in activity 2</string>
+    <string name="a3">You are in activity 3</string>
+    <string name="name1">Insert your name</string>
+    <string name="date">Insert your birth date details</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+    <string name="ins">Instructor</string>
+    <string name="stu">Student</string>
+    <string name="done">Done</string>
+
+
+</resources>
